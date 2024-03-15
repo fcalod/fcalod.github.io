@@ -5,9 +5,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Github](https://github.com/fcalod).
 
-[Link to another page](./another-page.html).
+[Proyecto 1](./proyecto1).
+
+[Proyecto 2](./proyecto2).
+
+[Proyecto 3](./proyecto3).
 
 There should be whitespace between paragraphs.
 
@@ -15,7 +19,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 
 ## Header 2
 
